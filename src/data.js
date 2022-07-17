@@ -8,14 +8,14 @@ export const sliderItems = [
   },
   {
     id: 2,
-    img: 'https://media.gq.com.mx/photos/6227e0df408208416bcc448a/16:9/w_2560%2Cc_limit/paris-fashion-week-aw22-looks-virales-en-tendencia.jpg',
+    img: 'https://store.ferrari.com/cms/ycm/resource/blob/598852/fd7e7284ebbdde6b660d14df10b5649f/ferrari-look-004-data.jpg',
     title: 'AUTUMN COLLECTION',
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: 'fcf1ed',
   },
   {
     id: 3,
-    img: 'https://media.gq.com/photos/61e86d27c0759352f8592838/master/pass/fweekdoom.jpg',
+    img: 'https://www.gildastyling.de/content/1-blog/mel-2_look1_0047.jpg',
     title: 'LOUNGEWEAR LOVE',
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: 'fbf0f4',
