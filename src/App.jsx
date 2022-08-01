@@ -1,5 +1,7 @@
+import Cart from './pages/Cart';
+
 const App = () => {
-  return <div>Hello world!</div>;
+  return <Cart />;
 };
 
 export default App;
